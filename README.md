@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 ![](https://github.com/rrubi03/HelloWorld2/blob/master/helloworld.gif?raw=true)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LICEcap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
